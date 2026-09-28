@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+data/
+test_todos.db
+frontend/node_modules/
+frontend/dist/
+frontend/.npm-cache/
+frontend/*.tsbuildinfo
